@@ -1,0 +1,11 @@
+{
+  "request_interval": 3,
+  "notification_email": "your-email@example.com",
+  "smtp_host": "smtp.example.com",
+  "smtp_port": 465,
+  "smtp_username": "your-email@example.com",
+  "smtp_password": "your-password",
+  "smtp_use_ssl": true,
+  "target_price_percentage": 70
+}
+
