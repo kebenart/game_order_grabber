@@ -2,6 +2,9 @@
 
 一个基于Python和PySide6开发的自动化游戏抢单工具，支持SteamPy平台的游戏价格监控和自动抢单功能。
 
+<img width="1805" height="885" alt="image" src="https://github.com/user-attachments/assets/eb8fc04c-2b02-4a1e-aec3-912ab387281f" />
+
+
 ## 🎯 主要功能
 
 - **游戏搜索**：支持按游戏名称搜索，显示价格和可购买状态
